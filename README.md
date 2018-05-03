@@ -21,8 +21,8 @@
 ## Copyright
 Animation Copyright
 
--Animations created by Daniel "Daneden" Eden
--Original file: http://daneden.github.io/animate.css/
--Version - 3.6.0 , Licensed under the MIT license - http://opensource.org/licenses/MIT
--Copyright (c) 2018 Daniel Eden
--Copyright (c) Udacity for game template.
+- Animations created by Daniel "Daneden" Eden
+- Original file: http://daneden.github.io/animate.css/
+- Version - 3.6.0 , Licensed under the MIT license - http://opensource.org/licenses/MIT
+- Copyright (c) 2018 Daniel Eden
+- Copyright (c) Udacity for game template.
