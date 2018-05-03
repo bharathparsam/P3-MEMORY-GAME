@@ -1,9 +1,9 @@
 # Memory Game Project
--This game is a part of udacity nanodegree projects.
+- This game is a part of Udacity Nanodegree projects.
 
 ## Instructions
 
--To play this game run index.html
+- To play this game run index.html
 
 ## Game Rules
 
