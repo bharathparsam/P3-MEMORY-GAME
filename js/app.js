@@ -145,11 +145,11 @@ document.addEventListener('DOMContentLoaded', _ => {
                 //Make a delay to show the last card
 
                 setTimeout(_ => {
+                  // Modal display when the whole game is completeds
 
-                  message.innerHTML = (`Total Moves:${(movingCount / 2)}
-                  Total Time: ${minutes} minutes : ${((seconds < 10) ? "0"+seconds : seconds )} seconds
-                  .Stars Gained ${rating.length} ${((rating.length===1) ? " star. " : "stars. ")}
-                  Click the button to play again or X Symbol?`);
+                  message.innerHTML = (`Total Moves: ${(movingCount / 2)}
+                       . Total Time: ${minutes} minutes : ${((seconds < 10) ? "0"+seconds : seconds )} seconds.
+                       Rating: ${rating.length} ${((rating.length===1) ? " star. " : "stars. ")}  `);
 
                   modal.classList.add('modal-show');
 
